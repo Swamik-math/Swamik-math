@@ -1,8 +1,9 @@
 <!-- Supreet's Cool Animated GitHub Profile -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Hey!+I'm+Supreet+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Security+and+Blockchain+Enthusiast+%F0%9F%94%90;Lifelong+Learner+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=850&lines=Hey!+I'm+Supreet+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Security+and+Blockchain+Enthusiast+%F0%9F%94%90;Lifelong+Learner+%F0%9F%8C%9F" alt="Typing SVG" />
 </h1>
+
 
 ---
 
