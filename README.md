@@ -6,7 +6,7 @@
 
 ---
 
-<h3 align="center">🚀 Passionate Developer from India 🇮🇳 | Crafting Ideas into Reality 💡</h3>
+<h3 align="center"> Passionate Developer from India 🇮🇳 | Crafting Ideas into Reality </h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
@@ -29,7 +29,7 @@
 
 ---
 
-### ⚙️ GitHub Analytics
+###  GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=supreetk&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=supreetk&theme=tokyonight&hide_border=true" height="165" />
@@ -37,40 +37,29 @@
 
 ---
 
----
-
-###  Contribution Activity
+###  Top Languages
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=supreetk&bg_color=0d1117&color=00ffb3&line=00ffb3&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supreetk&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-
-
----
-
-### 🏆 GitHub Trophies
+###  GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=supreetk&theme=dracula&margin-w=15&margin-h=15&no-frame=true" />
 </p>
 
 ---
 
-
-<p align="center">
-  <img src="https://i.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="60" />
-</p>
-
-
----
-
-### 💬 Let's Connect
+###  Let's Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
   <a href="https://x.com/YOUR-TWITTER" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" /></a>
 </p>
 
+
+
+---
 
 <h3 align="center">✨ “Eat 🍕 Code 💻 Sleep 😴 Repeat 🔁” ✨</h3>
