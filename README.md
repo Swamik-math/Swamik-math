@@ -22,7 +22,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,flask,react,html,css,js,nodejs,mongodb,mysql,git,github,vscode,linux,postman,tailwind" />
 </p>
@@ -37,10 +37,16 @@
 
 ---
 
-### 🧩 Top Languages
+---
+
+###  Contribution Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supreetk&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=supreetk&bg_color=0d1117&color=00ffb3&line=00ffb3&point=ffffff&area=true&hide_border=true" />
 </p>
+
+---
+
+
 
 ---
 
@@ -51,10 +57,11 @@
 
 ---
 
-### 🐍 Contribution Animation
+### 🚀 Keep Coding, Keep Growing!
 <p align="center">
-  <img src="https://raw.githubusercontent.com/supreetk/supreetk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://i.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="600" />
 </p>
+
 
 ---
 
