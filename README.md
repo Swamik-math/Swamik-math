@@ -57,9 +57,9 @@
 
 ---
 
-### 🚀 Keep Coding, Keep Growing!
+
 <p align="center">
-  <img src="https://i.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="600" />
+  <img src="https://i.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="60" />
 </p>
 
 
@@ -72,10 +72,5 @@
   <a href="https://x.com/YOUR-TWITTER" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" /></a>
 </p>
 
----
-
-
-
----
 
 <h3 align="center">✨ “Eat 🍕 Code 💻 Sleep 😴 Repeat 🔁” ✨</h3>
