@@ -15,8 +15,7 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 Currently working on: **Aadhaar-linked Healthcare Record System (Flask + Blockchain)**  
+### 👨‍💻 About Me 
 - 🌱 Learning: **Cybersecurity**, **Data Structures**, and **Backend Dev**  
 - 💬 Ask me about: **Python, Flask, React.js, DSA, APIs**  
 - ⚡ Fun fact: I love experimenting with tech & automating boring stuff 🧠  
@@ -45,12 +44,6 @@
 
 ---
 
-###  GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=supreetk&theme=dracula&margin-w=15&margin-h=15&no-frame=true" />
-</p>
-
----
 
 ###  Let's Connect
 <p align="center">
