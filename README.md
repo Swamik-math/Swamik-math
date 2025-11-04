@@ -5,7 +5,6 @@
 </h1>
 
 
-
 ---
 
 <h3 align="center"> Passionate Developer from India 🇮🇳 | Crafting Ideas into Reality </h3>
