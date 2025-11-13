@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=850&lines=Hey!+I'm+Supreet+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Security+and+Blockchain+Enthusiast+%F0%9F%94%90;Lifelong+Learner+%F0%9F%8C%9F" alt="Typing SVG" />
 </h1>
 
-
 ---
 
 <h3 align="center"> Passionate Developer from India 🇮🇳 | Crafting Ideas into Reality </h3>
@@ -31,19 +30,18 @@
 
 ###  GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=supreetk&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=supreetk&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Swamik-math&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swamik-math&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
 
 ###  Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supreetk&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swamik-math&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
-
 
 ###  Let's Connect
 <p align="center">
@@ -51,8 +49,6 @@
   <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
   <a href="https://x.com/YOUR-TWITTER" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" /></a>
 </p>
-
-
 
 ---
 
